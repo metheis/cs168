@@ -46,11 +46,11 @@ title = "CS168 Reader"
 [cta_note]
   label = '<span class="js-github-release" data-repo="metheis/cs168">Version:<!-- V --></span>'
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/metheis/cs168" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
-
 +++
 
 Introduction to the Internet Architecture and Protocols
 
 
 The Internet is so big, so powerful and pointless that for some people it is a complete substitution for life. Andrew Brown
+
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/metheis/cs168" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
