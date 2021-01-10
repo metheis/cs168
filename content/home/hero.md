@@ -38,7 +38,7 @@ title = "Introduction to the Internet Architecture and Protocols"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
    url = "docs/"
-   label = "Get Started"
+   label = "Read Now"
    icon_pack = "fas"
    icon = "download"
   
@@ -50,8 +50,6 @@ title = "Introduction to the Internet Architecture and Protocols"
 [cta_note]
   label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Version:<!-- V --></span>'
 +++
-
-# For [Academic Website Builder](https://sourcethemes.com/academic/).
 
 CS168 at UC Berkeley
 
