@@ -36,11 +36,11 @@ title = "Introduction to the Internet Architecture and Protocols"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-# [cta]
-#   url = "docs/"
-#   label = "Get Started"
-#   icon_pack = "fas"
-#   icon = "download"
+[cta]
+   url = "docs/"
+   label = "Get Started"
+   icon_pack = "fas"
+   icon = "download"
   
 [cta_alt]
   url = "docs/"
@@ -51,8 +51,8 @@ title = "Introduction to the Internet Architecture and Protocols"
   label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Version:<!-- V --></span>'
 +++
 
-For [Academic Website Builder](https://sourcethemes.com/academic/).
+# For [Academic Website Builder](https://sourcethemes.com/academic/).
 
-Write something interesting about your project here.
+CS168 at UC Berkeley
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
