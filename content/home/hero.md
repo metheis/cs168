@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Introduction to the Internet Architecture and Protocols"
+title = "CS168 Reader"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "book.svg"
@@ -37,13 +37,20 @@ title = "Introduction to the Internet Architecture and Protocols"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
   
+
 [cta]
   url = "docs/"
-  label = "View Documentation"
+  label = "View Reader"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Version:<!-- V --></span>'
+  label = '<span class="js-github-release" data-repo="metheis/cs168">Version:<!-- V --></span>'
+
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/metheis/cs168" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
 +++
 
-CS168 at UC Berkeley
+Introduction to the Internet Architecture and Protocols
+
+
+The Internet is so big, so powerful and pointless that for some people it is a complete substitution for life. Andrew Brown
